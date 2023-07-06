@@ -12,7 +12,7 @@ const Formulario = () => {
     nombre : '',
     edad : 0
   });
-
+ 
   return (
     <form autoComplete='off'>
       <div className='mb-3'>
